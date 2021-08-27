@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FizbanUXD
-- 👀 I’m interested in Product Design. I am a designer first, and have touched Front End so that I can build trust with cross-functional teams.
-- 🌱 I’m currently an early-career Product Designer looking for a full time role.
-- 💞️ I want to join a design team with senior mentorship so that I can learn good habits.
-- 📫 How to reach me: www.linkedin.com/in/uxeverything
+- 👀 I am a product designer, and I've touched HTML and CSS so that I can build rapport with web developers and design things that are easier to build.
+- 🌱 I’m a Product designer looking for a full time role.
+- 💞️ I want to join a product design team with strong senior mentorship.
+- 📫 How to reach me: designer@uxeverything.us, or www.linkedin.com/in/uxeverything
 
 <!---
 FizbanUXD/FizbanUXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
